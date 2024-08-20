@@ -1,0 +1,10 @@
+<color=green>ВІДКРИТО</color>
+<color=#07A2FF>ЗАКРИТО</color>
+<color=orange><size=15>ПЕРЕМІЩЕННЯ</size></color>
+<color=red><size=15>БЛОКУВАННЯ</size></color>
+<color=red>ПОМИЛКА</color>
+<color=red><size=15>У ДОСТУПІ ВІДМОВОЛЕНО</size></color>
+<color=green>ДОСТУП НАДАНО</color>
+<color=#07A2FF>ПОТРІБНА\nКЛЮЧ-КАРТА</color>
+<color=orange>БУДЬ ЛАСКА,\nПРОХОДІТЬ</color>
+<color=orange>ЗАКРИТТЯ</color>
