@@ -1,0 +1,6 @@
+<color=red>Доступ заборонено</color>
+Досягнуто ліміт <color=yellow>патронів калібру [type]</color> (<color=yellow>[max_type_count]</color>)
+<b>Ви вже</b> досягли ліміту <color=yellow>патронів калібру [type]</color> (<color=yellow>[max_type_count]</color>)
+Досягнуто ліміту <color=yellow>[type]</color> (<color=yellow>[max_type_count] предметів</color>)
+<b>Ви вже</b> досягли ліміту <color=yellow>[type]</color>, (<color=yellow>[max_type_count] предметів</color>)
+Ви можете нести лише <color=yellow>[max_item_count]</color> предметів.

@@ -1,0 +1,20 @@
+{
+  "Name": "Українська - Ukrainian",
+  "Authors": [
+    "Narin",
+	"PlaguePolski",
+    "TRI99ER",
+    "Andrii \"Rayfulrand\" Raboshchuk"
+  ],
+  "InterfaceLocales": [
+    "uk-UA",
+    "uk"
+  ],
+  "SystemLocales": [
+    "uk-UA",
+    "uk"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}
