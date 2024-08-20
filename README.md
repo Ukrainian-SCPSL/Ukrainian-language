@@ -1,18 +1,18 @@
 # Ukrainian language for SCP: Secret Laboratory
-![downloads](https://img.shields.io/github/downloads/YT-Narin/Ukraine-language-for-SCP-SL/total?logo=github&style=for-the-badge)
-![version](https://img.shields.io/github/v/release/YT-Narin/Ukraine-language-for-SCP-SL?include_prereleases&logo=github&style=for-the-badge)
+![downloads](https://img.shields.io/github/downloads/Ukrainian-SCPSL/Ukrainian-language/total?logo=github&style=for-the-badge)
+![version](https://img.shields.io/github/v/release/Ukrainian-SCPSL/Ukrainian-language?include_prereleases&logo=github&style=for-the-badge)
 [![discord](https://img.shields.io/discord/1052888868514447401?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/xBYJmpHptk)
 ## Information
 **UA:**
 > Через довге не оновлення української локалізації у грі **SCP: Secret Laboratory** я її вирішив оновити.  
-> Доступно на останню версію гри: **[13.4.2](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v3.10.0-pre-release)**                                                                   
+> Доступно на останню версію гри: **[13.4.2](https://github.com/Ukrainian-SCPSL/Ukrainian-language/releases/tag/v3.10.0-pre-release)**                                                                   
 > Розробник цього перекладу - @YT-Narin & @PlaguePolski.                                                            
 > Якщо Ви побачили помилку в даному перекладі - пишіть у **[Discord сервер](https://discord.gg/xBYJmpHptk)**.                    
 > Зроблено з любов'ю для NorthWood Studio.                                                          
 
 **ENG:**
 > After a long time not updating the Ukrainian localization in the game **SCP: Secret Laboratory** I decided to update it.                                               
-> Available on newest game version: **[13.4.2](https://github.com/YT-Narin/Ukraine-language-for-SCP-SL/releases/tag/v3.10.0-pre-release)**         
+> Available on newest game version: **[13.4.2](https://github.com/Ukrainian-SCPSL/Ukrainian-language/releases/tag/v3.10.0-pre-release)**         
 > The developer of this translation is @YT-Narin & @PlaguePolski.                                                 
 > If you see an error in this translation - write to the **[Discord server](https://discord.gg/xBYJmpHptk)**.               
 > Made with love for NorthWood Studio.               
@@ -21,11 +21,11 @@
 ## UK Downloader
 **UA:**               
 > Програма для швидкого встановлення цієї локалізації.               
-> Докладніше можна дізнатися за цим посиланням: https://github.com/YT-Narin/UKDownloader
+> Докладніше можна дізнатися за цим посиланням: https://github.com/Ukrainian-SCPSL/UKDownloader
 
 **ENG:**               
 > Program for quick installation of this localization.               
-> You can find more information on this link: https://github.com/YT-Narin/UKDownloader               
+> You can find more information on this link: https://github.com/Ukrainian-SCPSL/UKDownloader               
                
                
 ## Old developers
