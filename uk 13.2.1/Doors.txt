@@ -1,0 +1,10 @@
+<color=green>ВІДКРИТО</color>
+<color=#07A2FF>ЗАКРИТО</color>
+<color=orange><size=20>РУХ</size></color>
+<color=red><size=20>ЗАБЛОКОВАНО</size></color>
+<color=red>ПОМИЛКА</color>
+<color=red>У ДОСТУПІ ВІДМОВОЛЕНО</color>
+<color=green>ДОСТУП НАДАНО</color>
+<color=#07A2FF>ПОТРІБНА\nКЛЮЧ-КАРТКА</color>
+<color=orange>БУДЬ ЛАСКА,\nПРОХОДІТЬ</color>
+<color=orange>ЗАКРИТТЯ</color>

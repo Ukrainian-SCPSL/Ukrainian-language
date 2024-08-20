@@ -1,0 +1,5 @@
+ВИ ПОМЕРЛИ
+Натисніть {KEYBINDING_INTERACTION}, щоб помістити <color=yellow>Планшет управління озброєнням</color>.
+Натисніть {KEYBINDING_INTERACTION}, щоб забрати <color=yellow>Планшет управління озброєнням</color>.
+До цієї <color=yellow>Робочої Станції</color> вже підключено чийсь <color=yellow>Планшет Управління Озброєнням</color>.
+Підключіть <color=yellow>Планшет управління озброєнням</color>, щоб використовувати цю <color=yellow>Робочу Станцію</color>.

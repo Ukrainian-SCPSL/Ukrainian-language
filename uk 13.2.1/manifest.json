@@ -1,0 +1,21 @@
+{
+  "Name": "Українська",
+  "Authors": [
+    "Narin",
+	"PlaguePolski",
+    "TRI99ER",
+    "Andrii «Rayfulrand» Raboshchuk",
+	"Sergii «Fallenbard» Raboshchuk"
+  ],
+  "InterfaceLocales": [
+    "uk-UA",
+    "uk"
+  ],
+  "SystemLocales": [
+    "uk-UA",
+    "uk"
+  ],
+  "ForcedFontOrder": [
+
+  ]
+}
