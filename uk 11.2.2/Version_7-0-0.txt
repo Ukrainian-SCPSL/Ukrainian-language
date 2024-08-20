@@ -1,0 +1,5 @@
+ТИ ПОМЕР
+Натисніть {KEYBINDING_INTERACTION}, щоб розмістити <color=yellow>планшет керування зброєю</color>.
+Натисніть {KEYBINDING_INTERACTION}, щоб взяти <color=yellow>планшет для керування зброєю</color>.
+До цієї <color=yellow>робочої станції</color> вже підключено чужий <color=yellow>Weapon Manager Tablet</color>.
+Щоб використовувати цю <color=yellow>робочу станцію</color>, вам потрібен <color=yellow>планшет Weapon Manager</color>.
