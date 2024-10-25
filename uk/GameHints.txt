@@ -1,4 +1,4 @@
-<color=red>Доступ заборонено</color>
+-
 Досягнуто ліміт <color=yellow>патронів калібру [type]</color> (<color=yellow>[max_type_count]</color>)
 <b>Ви вже</b> досягли ліміту <color=yellow>патронів калібру [type]</color> (<color=yellow>[max_type_count]</color>)
 Досягнуто ліміту <color=yellow>[type]</color> (<color=yellow>[max_type_count] предметів</color>)
