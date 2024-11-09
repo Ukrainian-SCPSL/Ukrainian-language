@@ -1,4 +1,4 @@
-<size=180><color=red>НЕ ГОТОВИЙ</color></size>
-<color=red><size=200>ЧЕКАЙТЕ</size></color>
-<color=lime><size=180>ГОТОВИЙ</size></color>
+<size=1800><color=red>НЕ ГОТОВИЙ</color></size>
+<color=red><size=2000>ЧЕКАЙТЕ</size></color>
+<color=green><size=1800>ГОТОВИЙ</size></color>
 ДЕТОНАЦІЯ НЕМИНУЧА
