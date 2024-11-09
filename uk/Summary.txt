@@ -1,5 +1,5 @@
 Раунд завершено!
-ПЕРЕМОГА ПРИВИДІВ
+ПЕРЕМОГА SCP
 ПЕРЕМОГА ФОНДУ
 <size=120>ПЕРЕМОГА ПОВСТАНЦІВ</size>
 НІЧИЯ
@@ -12,7 +12,7 @@
 [summary_warhead_kills] вбито через детонацію Боєголовки "Альфа".
 Боєголовка "Альфа" не була детонована протягом раунду.
 Виконання місії зайняло: [summary_round_minutes] хвилин та [summary_round_seconds] секунд.
-[summary_scp_terminated] знищено Привидів.
+[summary_scp_terminated] знищено SCP об’єктів.
 Наступний раунд розпочнеться за: [summary_next_round_countdown] секунд.
 Загалом SCP було вбито [summary_scpfrags] людей.
 
