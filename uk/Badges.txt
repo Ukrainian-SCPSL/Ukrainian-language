@@ -81,3 +81,9 @@ Fullstack програміст SCP:SL
 Менеджер соціальних мереж Northwood 
 Керівник перекладу Northwood
 Наглядач Steam Northwood
+Менеджер з розробки рівнів SCP:SL
+Менеджер античіту SCP:SL
+Наглядач античіту SCP:SL
+Супервізор вікі Northwood  
+Лідер команди по розробці API SCP:SL
+Розробник API SCP:SL 
