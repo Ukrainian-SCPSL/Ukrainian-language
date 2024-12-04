@@ -1,7 +1,7 @@
 # Ukrainian language for SCP: Secret Laboratory
-![downloads](https://img.shields.io/github/downloads/Ukrainian-SCPSL/Ukrainian-language/total?logo=github&style=for-the-badge)
-![version](https://img.shields.io/github/v/release/Ukrainian-SCPSL/Ukrainian-language?include_prereleases&logo=github&style=for-the-badge)
-[![discord](https://img.shields.io/discord/1052888868514447401?label=Discord&logo=discord&style=for-the-badge)](https://discord.gg/xBYJmpHptk)
+![downloads](https://img.shields.io/github/downloads/Ukrainian-SCPSL/Ukrainian-language/total?logo=github&style=flat-square)
+![version](https://img.shields.io/github/v/release/Ukrainian-SCPSL/Ukrainian-language?include_prereleases&logo=github&style=flat-square)
+[![discord](https://img.shields.io/discord/1052888868514447401?label=Discord&logo=discord&style=flat-square)](https://discord.gg/xBYJmpHptk&style=flat-square)
 ## Information
 **UA:**
 > Через довге не оновлення української локалізації у грі **SCP: Secret Laboratory** я її вирішив оновити.  
