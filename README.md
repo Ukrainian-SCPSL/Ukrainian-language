@@ -15,5 +15,5 @@
 > Докладніше можна дізнатися за цим посиланням: https://github.com/Ukrainian-SCPSL/UKDownloader
 
 ## Минулі розробники
-> Старими розробниками є: TRI99ER, Andrii "Rayfulrand" Raboshchuk та Sergii «Fallenbard» Raboshchuk                                    
+> Старими розробниками є: TRI99ER, Andrii "Rayfulrand" Raboshchuk та Sergii "Fallenbard" Raboshchuk                                    
 > Дякуємо, що Ви раніше оновлювали Українську мову.                                                         
