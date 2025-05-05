@@ -3,11 +3,10 @@
 ![version](https://img.shields.io/github/v/release/Ukrainian-SCPSL/Ukrainian-language?include_prereleases&logo=github&style=flat-square)
 [![discord](https://img.shields.io/discord/1052888868514447401?label=Discord&logo=discord&style=flat-square)](https://discord.gg/xBYJmpHptk&style=flat-square)
 ## Інформація
-> Через довге не оновлення української локалізації у грі **SCP: Secret Laboratory** я її вирішив оновити.  
 > Доступно на останню версію гри: **[14.0.2](https://github.com/Ukrainian-SCPSL/Ukrainian-language/releases/tag/v3.14.3)**                                                        
 > Розробник цього перекладу - [@Narin4ik](https://github.com/Narin4ik) & [@PlaguePolski](https://github.com/PlagueFencer).                                                            
 > Якщо Ви побачили помилку в даному перекладі - пишіть у **[Discord сервер](https://discord.gg/xBYJmpHptk)**.                    
-> Зроблено з любов'ю для NorthWood Studio.
+> Зроблено з любов'ю для Northwood Studio.
             
                
                
