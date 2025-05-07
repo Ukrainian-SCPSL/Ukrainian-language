@@ -1,7 +1,7 @@
 # Ukrainian language for SCP: Secret Laboratory
-![downloads](https://img.shields.io/github/downloads/Ukrainian-SCPSL/Ukrainian-language/total?logo=github&style=flat-square)
-![version](https://img.shields.io/github/v/release/Ukrainian-SCPSL/Ukrainian-language?include_prereleases&logo=github&style=flat-square)
-[![discord](https://img.shields.io/discord/1052888868514447401?label=Discord&logo=discord&style=flat-square)](https://discord.gg/xBYJmpHptk&style=flat-square)
+![downloads](https://img.shields.io/github/downloads/Ukrainian-SCPSL/Ukrainian-language/total?logo=github&style=flat-square&label=Завантажень)
+![version](https://img.shields.io/github/v/release/Ukrainian-SCPSL/Ukrainian-language?include_prereleases&logo=github&style=flat-squarev&label=Версія)
+[![discord](https://img.shields.io/discord/1052888868514447401?label=Discord&logo=discord&style=flat-square)](https://discord.gg/xBYJmpHptk&style=flat-square&label=Discord)
 ## Інформація
 > Доступно на останню версію гри: **[14.1 Public Beta](https://github.com/Ukrainian-SCPSL/Ukrainian-language/releases/tag/v3.15.0-beta.1)**, **[14.0.2](https://github.com/Ukrainian-SCPSL/Ukrainian-language/releases/tag/v3.14.3)**                                                        
 > Розробник цього перекладу - [@Narin4ik](https://github.com/Narin4ik) & [@PlagueFencer](https://github.com/PlagueFencer).                                                            
