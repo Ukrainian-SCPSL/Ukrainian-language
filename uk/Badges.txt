@@ -85,9 +85,6 @@ Fullstack програміст Northwood
 Менеджер античіту Northwood
 Наглядач античіту Northwood
 Супервізор вікі Northwood
-Лідер команди по розробці API Northwood
-Розробник API Northwood
-Помічник із звітування про помилки Northwood
 Керівник команди API Northwood
 Супровідник API Northwood
 Помічник зі звітування про помилки SCP:SL
@@ -158,3 +155,4 @@ SMM-спеціаліст Northwood
 Веб-розробник Northwood
 Координатор вікі Northwood
 Перекладач вікі Northwood
+Учасник програми безпеки SCP:SL
